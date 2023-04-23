@@ -1,0 +1,3 @@
+log_sender.txt
+udp_file_sender
+udp_file_receiver=ø
